@@ -64,3 +64,4 @@ This viewer is built on the Inspect AI framework. Please refer to your evaluatio
 ---
 
 *Generated from SWE-Bench keyword suppression evaluation logs using Inspect AI's bundling system with sample extraction for web deployment.*
+# Trigger Pages
